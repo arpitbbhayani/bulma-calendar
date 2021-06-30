@@ -61530,7 +61530,7 @@ var defaultOptions = {
   color: 'primary',
   isRange: false,
   allowSameDayRange: true,
-  lang: navigator.language || 'en-US', // internationalization
+  lang: 'en-US', // internationalization
   dateFormat: 'MM/dd/yyyy',
   timeFormat: 'HH:mm',
   navigationMonthFormat: 'MMMM',
